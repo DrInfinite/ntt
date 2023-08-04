@@ -1,21 +1,36 @@
 {
-  "name": "ntt",
-  "displayName": "NT&T",
-  "description": "A soft, easy on the eyes, light theme with beautiful blues and gentle curves.",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.81.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "NT&T",
-        "uiTheme": "vs",
-        "path": "./themes/NT&T-color-theme.json"
-      }
-    ]
-  }
+	"name": "ntt",
+	"displayName": "NT&T",
+	"description": "A soft, easy on the eyes, light theme with beautiful blues and gentle hues.",
+	"version": "0.0.1",
+	"publisher": "Naparajith",
+	"icon": "icon.jpg",
+	"license": "MIT",
+	"keywords": [
+		"theme",
+		"light theme",
+		"naparajith",
+		"ntt",
+		"one light",
+		"code",
+		"pro",
+		"advance",
+		"advanced",
+		"material"
+	],
+	"engines": {
+		"vscode": "^1.81.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "NT&T",
+				"uiTheme": "vs",
+				"path": "./themes/NT&T-color-theme.json"
+			}
+		]
+	}
 }

@@ -1,16 +1,11 @@
-# ntt README
+# NT&T - An Elegant Light Theme
 
-## Working with Markdown
+### A soft, easy on the eyes, light theme with beautiful blues and gentle hues.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Description
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+An opulent yet refined light designer chromatic arrangement for Visual Studio Code.
 
-## For more information
+This theme boasts a more comprehensive utilization of syntax scopes and color consistency, with due consideration to aesthetics, contrast, and legibility. Originally derived from the exquisite One Light Theme, it has been augmented with the meaningful and intuitive color gamut.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Do give it a whirl! 😊
