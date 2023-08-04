@@ -6,6 +6,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+- Fixed color codes for keywords and setext -> 0.0.4
 - Updated git repository -> 0.0.3
 - Updated icon -> 0.0.2
 - Initial release -> 0.0.1
