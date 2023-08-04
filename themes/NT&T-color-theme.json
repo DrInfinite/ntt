@@ -23,7 +23,7 @@
 		"charts.orange": "#df631c",
 		"charts.purple": "#823ff1",
 		"charts.red": "#d52753",
-		"charts.yellow": "#D4A43B",
+		"charts.yellow": "#2a9d8f",
 		"checkbox.background": "#e8e8e8",
 		"checkbox.border": "#d5d7d8",
 		"checkbox.foreground": "#0083c0",
@@ -56,7 +56,7 @@
 		"debugTokenExpression.error": "#ff0000",
 		"debugTokenExpression.name": "#A05A48",
 		"debugTokenExpression.number": "#CE33C0",
-		"debugTokenExpression.string": "#D4A43B",
+		"debugTokenExpression.string": "#2a9d8f",
 		"debugTokenExpression.value": "#000000",
 		"debugToolBar.background": "#eeeeee",
 		"debugView.exceptionLabelBackground": "#ff0000",
@@ -321,11 +321,11 @@
 		"symbolIcon.propertyForeground": "#A05A48",
 		"symbolIcon.referenceForeground": "#000000",
 		"symbolIcon.snippetForeground": "#A0A1A7",
-		"symbolIcon.stringForeground": "#D4A43B",
+		"symbolIcon.stringForeground": "#2a9d8f",
 		"symbolIcon.structForeground": "#d52753",
 		"symbolIcon.textForeground": "#A0A1A7",
 		"symbolIcon.typeParameterForeground": "#40B8C5",
-		"symbolIcon.unitForeground": "#D4A43B",
+		"symbolIcon.unitForeground": "#2a9d8f",
 		"symbolIcon.variableForeground": "#000000",
 		"tab.activeBorderTop": "#00A8E0",
 		"tab.activeForeground": "#000000",
@@ -571,7 +571,7 @@
 				"storage.type.string"
 			],
 			"settings": {
-				"foreground": "#D4A43B",
+				"foreground": "#2a9d8f",
 				"fontStyle": ""
 			}
 		},
@@ -658,14 +658,14 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#D4A43B"
+				"foreground": "#2a9d8f"
 			}
 		},
 		{
 			"name": "Units",
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#D4A43B"
+				"foreground": "#2a9d8f"
 			}
 		},
 		{
@@ -764,7 +764,7 @@
 			"name": "Code",
 			"scope": "markup.raw.inline",
 			"settings": {
-				"foreground": "#D4A43B"
+				"foreground": "#2a9d8f"
 			}
 		},
 		{
