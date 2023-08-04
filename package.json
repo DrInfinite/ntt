@@ -6,6 +6,10 @@
 	"publisher": "Naparajith",
 	"icon": "icon.jpg",
 	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/DrInfinite/nttgit"
+	},
 	"keywords": [
 		"theme",
 		"light theme",
