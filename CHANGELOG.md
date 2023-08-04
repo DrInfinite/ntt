@@ -6,4 +6,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release -> 1.0.0
+- Updated git repository -> 0.0.3
+- Updated icon -> 0.0.2
+- Initial release -> 0.0.1

@@ -2,13 +2,13 @@
 	"name": "ntt",
 	"displayName": "NT&T",
 	"description": "A soft, easy on the eyes, light theme with beautiful blues and gentle hues.",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"publisher": "Naparajith",
 	"icon": "icon.jpg",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/DrInfinite/nttgit"
+		"url": "https://github.com/DrInfinite/ntt.git"
 	},
 	"keywords": [
 		"theme",
